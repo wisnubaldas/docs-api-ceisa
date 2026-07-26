@@ -1,0 +1,14 @@
+{
+  "title": "API CEISA 4.0 - Dokumentasi Resmi",
+  "description": "Backup & Restoration Dokumentasi Resmi API CEISA 4.0 (Services Pabean, Barang Kiriman, Manifes, Cukai, dan Referensi Kode)",
+  "author": "Direktorat Jenderal Bea dan Cukai",
+  "language": "id",
+  "gitbook": ">=3.0.0",
+  "plugins": [
+    "expandable-chapters",
+    "-search",
+    "-lunr",
+    "fontsettings",
+    "theme-default"
+  ]
+}

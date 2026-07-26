@@ -1,0 +1,23 @@
+{
+  "name": "api-ceisa-gitbook",
+  "version": "1.0.0",
+  "description": "Dokumentasi Resmi API CEISA 4.0 (Pabean, Barang Kiriman, Manifes, Cukai)",
+  "main": "index.js",
+  "scripts": {
+    "build": "honkit build",
+    "serve": "honkit serve"
+  },
+  "keywords": [
+    "ceisa",
+    "beacukai",
+    "api-documentation",
+    "gitbook",
+    "honkit"
+  ],
+  "author": "CEISA 4.0",
+  "license": "MIT",
+  "devDependencies": {
+    "gitbook-plugin-expandable-chapters": "^0.2.0",
+    "honkit": "^6.0.2"
+  }
+}

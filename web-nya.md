@@ -1,0 +1,1 @@
+https://web.archive.org/web/20250523054122/https://ceisa40.gitbook.io/pia-ceisa40/api-services-barang-kiriman/daftar-service-impor-barang-kiriman/kirim-dokumen-barang-kiriman

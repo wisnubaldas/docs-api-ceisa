@@ -1,0 +1,3 @@
+# Kirim Dokumen PLB
+
+[Kirim Dokumen PLB BC 1.6](web/20250613230308/https://ceisa40.gitbook.io/pia-ceisa40/api-services-pabean/kirim-dokumen-plb/kirim-dokumen-ekspor.md)[Kirim Dokumen PLB BC 2.8](web/20250613230308/https://ceisa40.gitbook.io/pia-ceisa40/api-services-pabean/kirim-dokumen-plb/kirim-dokumen-ekspor-1.md)[Kirim Dokumen PLB BC 3.3](web/20250613230308/https://ceisa40.gitbook.io/pia-ceisa40/api-services-pabean/kirim-dokumen-plb/kirim-dokumen-ekspor-2.md)[Kirim Dokumen PLB P3BET](web/20250613230308/https://ceisa40.gitbook.io/pia-ceisa40/api-services-pabean/kirim-dokumen-plb/kirim-dokumen-ekspor-3.md)
