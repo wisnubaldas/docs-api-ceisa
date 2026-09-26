@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: API CEISA 4.0 - Dokumentasi Resmi
+  structure:
+    - type: space
+      key: api-ceisa-40
+      title: API CEISA 4.0
+      path: docs
+      default: true
+      content:
+        directory: ./
+        language: id
